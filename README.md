@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @gvishal14
-- 👀 React Native Developer (Android & IOS) ...
-- 🌱 Currently working As a React Native Developer   ...
-- 💞️ 
-- 📫 
+- - 👀🌟 React Native Developer(Android & IOS) | Java Spring Boot Enthusiast 🌟👀
+👨‍💻 Passionate about building mobile applications using React Native
+🔧 Currently honing my skills in Java Spring Boot at Tech Mahindra Ltd.
+🚀 Always eager to learn new technologies and contribute to open-source projects.
 
-<!---
-gvishal14/gvishal14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to tweak it to better fit your personality and style!
